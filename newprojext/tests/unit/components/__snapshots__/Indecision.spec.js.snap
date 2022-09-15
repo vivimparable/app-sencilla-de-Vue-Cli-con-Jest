@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Componente Indecision.vue Snapshot 1`] = `
+<div>
+  <h1></h1>
+  <!--v-if-->
+  <p>¿Tienes dudas acerca de tu vida? Pues qué mejor manera que saberlo a través de memes. Adelante, haz tu pregunta y a ver que te depara el futuro.</p>
+  <div class="bg-dark"></div>
+  <div class="indecision-container"><input placeholder="¡Preguntame algo!" type="text" name="ask" id="ask">
+    <p>Recuerda terminar con un signo de interrogación (?)</p>
+    <!--v-if-->
+  </div>
+</div>
+<!--v-if-->
+`;
